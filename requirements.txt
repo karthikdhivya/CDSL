@@ -1,2 +1,7 @@
 streamlit
 yfinance
+numpy
+pandas
+
+scikit-learn
+matplotlib
